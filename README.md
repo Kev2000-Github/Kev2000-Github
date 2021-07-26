@@ -22,8 +22,7 @@
 <br>
 <details>
     <summary>:zap: GitHub Stats</summary>
-![Github stats](https://github-readme-stats.vercel.app/api?username=andres15alvarez&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres15alvarez&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Kev2000-Github&theme=tokyonight"/>
 
 </details>
 
