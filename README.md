@@ -1,5 +1,5 @@
-### Hi, I'm Kevin Cheng! 👋
-#### I'm an entusiast Web Developer who loves to learn new stuff about web development 
+## Hi, I'm Kevin Cheng! 👋
+### I'm an entusiast Web Developer who loves to learn new stuff about web development 
 
 #### Connect with me:
 
