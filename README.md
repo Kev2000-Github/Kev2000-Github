@@ -28,19 +28,22 @@
   </a><a href="https://github.com/Kev2000-Github/PlayGroup-Backend" target="_blank">
     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Repository" height="40" />
   </a><a href="https://playgroup.netlify.app/" target="_blank">
-    <img align="center" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" alt="Heroku Live Demo" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/Kev2000-Github/Kev2000-Github/main/netlify-logo.png" alt="Heroku Live Demo" height="40" />
   </a>
 - A web app where you can see a list of animes <a href="https://github.com/Kev2000-Github/anime-webscrapper-frontend" target="_blank">
     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Repository" height="40" />
   </a><a href="https://github.com/Kev2000-Github/anime-webscrapper-backend" target="_blank">
     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Repository" height="40" />
   </a><a href="https://naughty-raman-a4b400.netlify.app/" target="_blank">
-    <img align="center" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" alt="Heroku Live Demo" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/Kev2000-Github/Kev2000-Github/main/netlify-logo.png" alt="Heroku Live Demo" height="40" />
+  </a>
+- A web app to hear music samples consuming the deezer API <a href="https://naughty-raman-a4b400.netlify.app/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Kev2000-Github/Kev2000-Github/main/netlify-logo.png" alt="Heroku Live Demo" height="40" />
   </a>
 - A simple web pokedex that consumes the pokemon api <a href="https://github.com/Kev2000-Github/Pokedex-Project" target="_blank">
     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Repository" height="40" />
   </a><a href="https://condescending-lamport-65eb62.netlify.app/" target="_blank">
-    <img align="center" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" alt="Heroku Live Demo" height="40" />
+    <img align="center" src="https://raw.githubusercontent.com/Kev2000-Github/Kev2000-Github/main/netlify-logo.png" alt="Heroku Live Demo" height="40" />
   </a>
 - <a href="https://github.com/Kev2000-Github?tab=repositories" target="_blank">
     And more!
