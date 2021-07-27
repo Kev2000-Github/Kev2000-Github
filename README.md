@@ -37,7 +37,7 @@
   </a><a href="https://naughty-raman-a4b400.netlify.app/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/Kev2000-Github/Kev2000-Github/main/netlify-logo.png" alt="Heroku Live Demo" height="40" />
   </a>
-- A web app to hear music samples consuming the deezer API <a href="https://naughty-raman-a4b400.netlify.app/" target="_blank">
+- A web app to hear music samples by using the deezer API <a href="https://naughty-raman-a4b400.netlify.app/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/Kev2000-Github/Kev2000-Github/main/netlify-logo.png" alt="Heroku Live Demo" height="40" />
   </a>
 - A simple web pokedex that consumes the pokemon api <a href="https://github.com/Kev2000-Github/Pokedex-Project" target="_blank">
